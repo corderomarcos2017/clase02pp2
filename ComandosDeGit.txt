@@ -5,4 +5,8 @@
 
 NOTA: 
 cOMANDO git clone se utiliza una unica vez, baja el roposito a la maquina actual.
+
+        Ejemplo:  
+        git clone https://github.com/corderomarcos2017/clase02pp2.git
+
 comando git status se ejecuta cada vez que uno quiera....
