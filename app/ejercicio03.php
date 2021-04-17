@@ -5,25 +5,25 @@
 
 	switch($mes) {
 		case 12: 
-			echo " termina la Primavera y empieza el " ;
+			echo "Termina la Primavera y empieza el " ;
 		case 1: 
 		case 2: 
 			echo "Verano...";
 			break;
 		case 3: 
-			echo " termina la Verano y empieza el " ;
+			echo "Termina el Verano y empieza el " ;
 		case 4: 
 		case 5: 
 			echo "Otoño..";
 			break;
 		case 6: 
-			echo " termina la Otoño y empieza el " ;		
+			echo "Termina el Otoño y empieza el " ;		
 		case 7: 
 		case 8: 
 			echo "Invierno...";
-                        break;
+            break;
 		case 9: 
-			echo " termina el Invierno y empieza el " ;		
+			echo "Termina el Invierno y empieza la " ;		
 		case 10: 
 		case 11: 
 			echo "Primavera...";
