@@ -5,3 +5,4 @@
 	} else {
 		echo "Es mayor de edad...";
 	}
+?>
