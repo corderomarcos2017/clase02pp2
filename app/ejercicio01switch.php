@@ -22,8 +22,9 @@
 		case 17:				
 		case 18:				
 			$retorno = " Adolescente";
+			break;
 		default:
-			$retorno = " Mayor"
+			$retorno = " Mayor";
 			break;
 	}
 	echo "La edad : $edad, pertenece a la categoria $retorno";
