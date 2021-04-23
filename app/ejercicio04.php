@@ -8,9 +8,9 @@
 	// Muestro el contenido de las tres variables
 	echo " El numero 1 es : $numero1 <br> ";
 	echo " El numero 2 es : $numero2 <br> ";
-	echo " El numero 4 es : $numero3 <br> <br>";
+	echo " El numero 3 es : $numero3 <br> <br>";
 
-	/*Para buscar el mayor decido comprar las dos primeras para encontrar 
+	/*Para buscar el mayor decido comparar las dos primeras para encontrar 
 	  el mayor entre ellas dos y el valor lo guardo en la variable mayor */ 
 	if ($numero1>$numero2) {
 		$mayor = $numero1;
